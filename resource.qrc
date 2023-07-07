@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="file">
+    <file>icon/file.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>icon/logo.png</file>
+    <file>icon/logo.ico</file>
+    <file>icon/logo.gif</file>
+  </qresource>
+  <qresource prefix="compose type">
+    <file>icon/compose.png</file>
+  </qresource>
+  <qresource prefix="run">
+    <file>icon/run.png</file>
+  </qresource>
+  <qresource prefix="over">
+    <file>icon/over.png</file>
+  </qresource>
+</RCC>
